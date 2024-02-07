@@ -54,6 +54,4 @@ Para executar as análises contidas neste projeto, siga as instruções abaixo:
 
 Contribuições para o projeto são bem-vindas. Para contribuir, por favor, crie um pull request com suas sugestões de melhorias ou correções.
 
-## Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE.md para mais detalhes.
